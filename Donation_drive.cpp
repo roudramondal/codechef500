@@ -6,7 +6,7 @@ int main ()
   cin >> t;
   while (t--)
   {
-    int a, b;
+    int a, b;// variable decalare 
     cin >> a >> b;
     int sub = a - b;
     cout << sub << endl;
